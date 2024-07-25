@@ -7,3 +7,13 @@ background-color: rgb(126, 196, 173);
 color: rgb(122, 138, 209);
 font-family: 'chakra Petch', sans-serif;
 }
+título-principal{
+    text-align: left;
+    width: 100%;
+    font-size: 34px;
+
+}
+.título-principal{
+    color:blueviolet
+    
+}
