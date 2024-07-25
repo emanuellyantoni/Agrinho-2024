@@ -1,9 +1,9 @@
 :root{
 --cor-de-fundo: #ffc1c1;
---texto-fundo: #7417ccfd;
+--texto-fundo: #4f0f8bfd;
 }
 body{
-background-color: rgb(15, 248, 170);
-color: rgb(8, 134,92);
-font-family: 'chakra Petch';
+background-color: rgb(126, 196, 173);
+color: rgb(122, 138, 209);
+font-family: 'chakra Petch', sans-serif;
 }
