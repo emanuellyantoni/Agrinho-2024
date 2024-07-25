@@ -2,7 +2,7 @@
 --cor-de-fundo: #ffc1c1;
 --texto-fundo: #4f0f8bfd;
 }
-body{
+body{a
 background-color: rgb(126, 196, 173);
 color: rgb(122, 138, 209);
 font-family: 'chakra Petch', sans-serif;
@@ -15,5 +15,5 @@ título-principal{
 }
 .título-principal{
     color:blueviolet
-    
+
 }
